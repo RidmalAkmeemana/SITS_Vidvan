@@ -1,0 +1,84 @@
+[INFO] Jun 13, 2024 8:12:40 PM Infra.BasePage - =======================================================
+[INFO] Jun 13, 2024 8:12:40 PM Infra.BasePage - OPENING WEB BROWSER
+[INFO] Jun 13, 2024 8:12:40 PM Infra.BasePage - =======================================================
+
+[INFO] Jun 13, 2024 8:12:45 PM Infra.BasePage - -------------------------------------------------------
+[INFO] Jun 13, 2024 8:12:45 PM Infra.BasePage - LOG IN TO SYSTEM
+[INFO] Jun 13, 2024 8:12:45 PM Infra.BasePage - -------------------------------------------------------
+
+[INFO] Jun 13, 2024 8:12:46 PM Infra.BasePage - REDIRECT TO: https://www.vidvan.lk/uatsla/login/
+[INFO] Jun 13, 2024 8:12:46 PM Infra.BasePage - ENTER USERNAME: wandana.s@sits.lk
+[INFO] Jun 13, 2024 8:12:49 PM Infra.BasePage - ENTER PASSWORD: Abc@1234
+[INFO] Jun 13, 2024 8:12:51 PM Infra.BasePage - CLICK ON LOG IN BUTTON 
+
+[INFO] Jun 13, 2024 8:12:56 PM Infra.BasePage - USER LOG IN SUCCESSFULLY
+
+[INFO] Jun 13, 2024 8:12:56 PM Infra.BasePage - -------------------------------------------------------
+[INFO] Jun 13, 2024 8:12:56 PM Infra.BasePage - LOG IN PROCESSED
+[INFO] Jun 13, 2024 8:12:56 PM Infra.BasePage - -------------------------------------------------------
+
+[INFO] Jun 13, 2024 8:12:56 PM Infra.BasePage - -------------------------------------------------------
+[INFO] Jun 13, 2024 8:12:56 PM Infra.BasePage - GO TO COURSE PAGE
+[INFO] Jun 13, 2024 8:12:56 PM Infra.BasePage - -------------------------------------------------------
+
+[INFO] Jun 13, 2024 8:12:58 PM Infra.BasePage - COURSE ID: 990.0
+[INFO] Jun 13, 2024 8:12:58 PM Infra.BasePage - COURSE PAGE LOADED SUCCESSFULLY
+
+[INFO] Jun 13, 2024 8:12:58 PM Infra.BasePage - -------------------------------------------------------
+[INFO] Jun 13, 2024 8:12:58 PM Infra.BasePage - COURSE PAGE PROCESSED
+[INFO] Jun 13, 2024 8:12:58 PM Infra.BasePage - -------------------------------------------------------
+
+[INFO] Jun 13, 2024 8:12:58 PM Infra.BasePage - -------------------------------------------------------
+[INFO] Jun 13, 2024 8:12:58 PM Infra.BasePage - GO TO PARTICIPANTS PAGE
+[INFO] Jun 13, 2024 8:12:58 PM Infra.BasePage - -------------------------------------------------------
+
+[INFO] Jun 13, 2024 8:12:58 PM Infra.BasePage - CLICK ON NAVIGATION BUTTON
+[INFO] Jun 13, 2024 8:13:00 PM Infra.BasePage - CLICK ON PARTICIPATION'S BUTTON
+[INFO] Jun 13, 2024 8:13:03 PM Infra.BasePage - -------------------------------------------------------
+[INFO] Jun 13, 2024 8:13:03 PM Infra.BasePage - PARTICIPANTS PAGE PROCESSED
+[INFO] Jun 13, 2024 8:13:03 PM Infra.BasePage - -------------------------------------------------------
+
+[INFO] Jun 13, 2024 8:13:03 PM Infra.BasePage - CLICK ON PAGE SETTING BUTTON
+[INFO] Jun 13, 2024 8:13:06 PM Infra.BasePage - CLICK ON ENROLLEMTS METHODS
+[INFO] Jun 13, 2024 8:13:09 PM Infra.BasePage - CLICK ON ADD BUTTON
+[INFO] Jun 13, 2024 8:13:12 PM Infra.BasePage - -------------------------------------------------------
+[INFO] Jun 13, 2024 8:13:12 PM Infra.BasePage - START TO ADD EMAILS
+[INFO] Jun 13, 2024 8:13:12 PM Infra.BasePage - -------------------------------------------------------
+
+[INFO] Jun 13, 2024 8:13:12 PM Infra.BasePage - ID: 001
+[INFO] Jun 13, 2024 8:13:12 PM Infra.BasePage - ENTER EMAIL: ajav@int.sampath.lk
+[INFO] Jun 13, 2024 8:13:17 PM Infra.BasePage - USER COUNT: 1
+[INFO] Jun 13, 2024 8:13:17 PM Infra.BasePage - USER COUNT: 1
+[INFO] Jun 13, 2024 8:13:19 PM Infra.BasePage - ADD THE USER
+[INFO] Jun 13, 2024 8:13:22 PM Infra.BasePage - CLEAR THE EMAIL FIELD
+[INFO] Jun 13, 2024 8:13:24 PM Infra.BasePage - -------------------------------------------------------
+[INFO] Jun 13, 2024 8:13:24 PM Infra.BasePage - EMAIL ADDING COMPLETED
+[INFO] Jun 13, 2024 8:13:24 PM Infra.BasePage - -------------------------------------------------------
+
+[INFO] Jun 13, 2024 8:13:24 PM Infra.BasePage - -------------------------------------------------------
+[INFO] Jun 13, 2024 8:13:24 PM Infra.BasePage - START TO ADD EMAILS
+[INFO] Jun 13, 2024 8:13:24 PM Infra.BasePage - -------------------------------------------------------
+
+[INFO] Jun 13, 2024 8:13:24 PM Infra.BasePage - ID: 002
+[INFO] Jun 13, 2024 8:13:24 PM Infra.BasePage - ENTER EMAIL: ridmal@gmail.com
+[INFO] Jun 13, 2024 8:13:38 PM Infra.BasePage - USER COUNT: 0
+[INFO] Jun 13, 2024 8:13:38 PM Infra.BasePage - CLEAR THE EMAIL FIELD
+[INFO] Jun 13, 2024 8:13:40 PM Infra.BasePage - NO USER AVAILABLE
+[INFO] Jun 13, 2024 8:13:40 PM Infra.BasePage - -------------------------------------------------------
+[INFO] Jun 13, 2024 8:13:40 PM Infra.BasePage - START TO ADD EMAILS
+[INFO] Jun 13, 2024 8:13:40 PM Infra.BasePage - -------------------------------------------------------
+
+[INFO] Jun 13, 2024 8:13:40 PM Infra.BasePage - ID: 003
+[INFO] Jun 13, 2024 8:13:40 PM Infra.BasePage - ENTER EMAIL: graphicdesigner@sampath.lk
+[INFO] Jun 13, 2024 8:13:45 PM Infra.BasePage - USER COUNT: 2
+[INFO] Jun 13, 2024 8:13:45 PM Infra.BasePage - USER COUNT: 2
+[INFO] Jun 13, 2024 8:13:49 PM Infra.BasePage - ADD THE USER
+[INFO] Jun 13, 2024 8:13:52 PM Infra.BasePage - CLEAR THE EMAIL FIELD
+[INFO] Jun 13, 2024 8:13:54 PM Infra.BasePage - -------------------------------------------------------
+[INFO] Jun 13, 2024 8:13:54 PM Infra.BasePage - EMAIL ADDING COMPLETED
+[INFO] Jun 13, 2024 8:13:54 PM Infra.BasePage - -------------------------------------------------------
+
+[INFO] Jun 13, 2024 8:13:54 PM Infra.BasePage - =======================================================
+[INFO] Jun 13, 2024 8:13:54 PM Infra.BasePage - CLOSING WEB BROWSER
+[INFO] Jun 13, 2024 8:13:54 PM Infra.BasePage - =======================================================
+
